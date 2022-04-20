@@ -1,0 +1,2 @@
+Spécialisation graphisme de CalArts sur Coursera (2017)
+Affiche Gill Sans pour le cours d'introduction à la typographie
