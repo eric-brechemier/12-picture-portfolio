@@ -1,2 +1,6 @@
 # ignore macOS thumbnails
 .DS_Store
+
+# ignore top-level folders to unzip and check portfolio archives
+/Eric-BRECHEMIER-Portfolio
+/Portfolio-BRECHEMIER-Eric
