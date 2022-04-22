@@ -3,6 +3,20 @@
 Mini portfolio of 12 photographs and captions to be printed
 and laminated or distributed as a ZIP of digital files.
 
+## Usage Notes to create Portfolio Archives in Zip Format
+
+Run the script `source/zip.sh` with the name of the folder
+with French or English captions to generate the corresponding
+portfolio archive:
+
+```
+# Update English portfolio
+$ source/zip.sh Eric-BRECHEMIER-Portfolio
+
+# Update French portfolio
+$ source/zip.sh Portfolio-BRECHEMIER-Eric
+```
+
 ## Production Notes for Printing
 
 1. Print the pictures using a photo printer (e.g. Canon Selphy)
