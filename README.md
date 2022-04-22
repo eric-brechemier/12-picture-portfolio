@@ -3,7 +3,7 @@
 Mini portfolio of 12 photographs and captions to be printed
 and laminated or distributed as a ZIP of digital files.
 
-## Usage Notes to create Portfolio Archives in Zip Format
+## Usage Notes to Recreate Portfolio Archives in Zip Format
 
 Run the script `source/zip.sh` with the name of the folder
 with French or English captions to generate the corresponding
